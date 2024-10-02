@@ -12,7 +12,7 @@ There are a lot of things that I personally like, some of them are-
 - I'm a vivid gamer, some of my favourites are:
       - __GTA 5__
       - __RDR 2__
-      - __WWE 2k24__
+      - __WWE 2k23__
 
 - I'm a huge fan of __The NFL__
        - My favourite team is *Miami Dolphines*.
