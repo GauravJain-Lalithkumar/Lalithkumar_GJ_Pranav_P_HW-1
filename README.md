@@ -4,7 +4,7 @@ Group Assignment Of Gaurav Jain and Pranav
 ## About Pranav:-
 
 ### Background:-
-Hello my name is _Pranav Jain. I'm from the ___subcontinent of India.I'm _18_ years old and I just freshly graduated from High School. I choose the IDP course so later I can work in the _Digital Media industry_.
+Hello my name is __Pranav Jain__. I'm from the ___subcontinent of India___.I'm _18_ years old and I just freshly graduated from High School. I choose the IDP course so later I can work in the _Digital Media industry_.
 
 ### The things that I like:-
 There are a lot of things that I personally like, some of them are-
