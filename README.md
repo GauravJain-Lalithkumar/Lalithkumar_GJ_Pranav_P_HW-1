@@ -51,11 +51,10 @@ ___Here down below is the image of the city I hail from:-___
 ### The things that I like:-
 There are a lot of things that I personally like, some of them are-
 
-- I'm a vivid gamer, some of my favourites are:-
-- <br>
-       -  _GTA 5_
-       - _RDR 2_
-       - _WWE 2k24_
+- I'm a vivid gamer, some of my favourites are: <br>
+       - *GTA 5*
+       - *RDR 2*
+       - *WWE 2k24*
 
 - I'm a huge fan of _The NFL_
        - My favourite team is Miami Dolphines.
