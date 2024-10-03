@@ -1,4 +1,4 @@
-# Lalithkumar_GauravJain_Pranav_Pranav_HW-1
+# Lalithkumar_GauravJain_Pranav_Pranav_HW1
 Group Assignment Of Gaurav Jain and Pranav
 
 # *About Gaurav Jain :-*
@@ -43,15 +43,18 @@ There are a lot of things that I lik doing in my free time, especially persuying
 ## About Pranav:-
 
 ### Background:-
-Hello my name is __Pranav Jain__. I'm from the ___subcontinent of India___. I'm _18_ years old and I just freshly graduated from High School. I choose the IDP course so later I can work in the _Digital Media industry_.
+Hello my name is __Pranav__. I'm from the ___subcontinent of India___. I'm _18_ years old and I just freshly graduated from High School. I choose the IDP course so later I can work in the _Digital Media industry_.
+
+___Here down below is the image of the city I hail from:-___
+![Dehradun](https://i.ytimg.com/vi/hE1hWY9ROI0/maxresdefault.jpg)
 
 ### The things that I like:-
 There are a lot of things that I personally like, some of them are-
 
 - I'm a vivid gamer, some of my favourites are:-
-      -  _GTA 5_
-      - _RDR 2_
-      - _WWE 2k24_
+       -  _GTA 5_
+       - _RDR 2_
+       - _WWE 2k24_
 
 - I'm a huge fan of _The NFL_
        - My favourite team is Miami Dolphines.
