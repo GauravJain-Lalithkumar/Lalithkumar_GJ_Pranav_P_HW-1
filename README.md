@@ -1,2 +1,39 @@
 # Lalithkumar_GauravJain_Pranav_Pranav_HW-1
 Group Assignment Of Gaurav Jain and Pranav
+
+# *About Gaurav Jain :-*
+
+Hi, I'm **_Gaurav Jain_**, a recent graduate from Loyola College with a degree in **_3d Animation_**. I've been doing **Freelance work** for a year. I want to learn how to create a website so I have chosen the IDP course for the study. 
+
+### *The things that I like:-*
+ There are a lot of things that I personally like, some of them are
+ - I'm a Pc gamer, some of my favourites are:
+      - **GTA 5**
+      - **Valorant**
+      - **Fortnite**
+      - **Rogue Company**
+      
+- I'm a huge fan of Cars
+   - My favourite Car is ***Porsche 911 Carrera***.
+
+- I like go out with **my friends and spend same time together**.
+
+- I like to watch ***Movie's***.
+
+![Porsche_911_Carrera](image/Porsche%20911%20Carrera.jpeg) ![rsche_911_Carrera](Image/Porsche%20911%20Carrera%202.jpeg)
+
+### *My Hobbies:-*
+There are a lot of things that I lik doing in my free time, especially persuying my hobbies. Some of them are:-
+
+1. **Photography**
+2. **Playing Game's**
+3. **Listening Music** 
+4. **Watching Anime**
+5. **Hiking**
+
+### ***This Is the photo of one of my favorite place in my hometown :-***
+
+*[Marina_beach](https://d26dp53kz39178.cloudfront.net/media/uploads/Location_Based_Travel_Guide_Images/image7_result-1657784532911.webp)*
+
+![Marina_beach](image/marina%20beach.jpeg)
+
