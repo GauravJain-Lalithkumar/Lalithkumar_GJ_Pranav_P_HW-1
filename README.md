@@ -23,7 +23,7 @@ There are a lot of things that I personally like, some of them are-
 ![Miami_Dolphines](https://static.clubs.nfl.com/image/upload/t_editorial_landscape_mobile/f_auto/dolphins/ruk446jpezddlqalb2zx.jpg)
 
 ### My Hobbies:-
-There are a lot of things that I lik doing in my free time, especially persuying my hobbies. Some of them are:-
+There are a lot of things that I like doing in my free time, especially persuying my hobbies. Some of them are:-
 
 1. _Drawing and painting_: I like to draw pictures of beautiful sceneries.
 2. _Photography:_ I like taking pictures of life and nature.
