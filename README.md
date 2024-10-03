@@ -9,9 +9,8 @@ Hello my name is __Pranav Jain__. I'm from the ___subcontinent of India___. I'm 
 ### The things that I like:-
 There are a lot of things that I personally like, some of them are-
 
-- I'm a vivid gamer, some of my favourites are:
-
-      - _GTA 5_
+- I'm a vivid gamer, some of my favourites are:-
+      -  _GTA 5_
       - _RDR 2_
       - _WWE 2k24_
 
