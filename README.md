@@ -52,6 +52,7 @@ ___Here down below is the image of the city I hail from:-___
 There are a lot of things that I personally like, some of them are-
 
 - I'm a vivid gamer, some of my favourites are:-
+- <br>
        -  _GTA 5_
        - _RDR 2_
        - _WWE 2k24_
